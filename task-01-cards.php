@@ -20,7 +20,7 @@ $people = [
         "color" => "#e91e63"
     ],
     [
-        "name" => "Diveid Carter",
+        "name" => "Shown Carter",
         "role" => "Project Manager",
         "image" => "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80",
         "skills" => ["Agile", "Scrum", "Management"],
